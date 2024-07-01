@@ -8,5 +8,6 @@ Check out my projects on my portfolio website - https://andyportfolio.tiiny.site
 You can reach me on keehoon2004@gmail.com
 
 Languages and Tools:
-![image](https://github.com/andy7937/andy7937/assets/126305769/4dc45adf-8a46-4e98-bd62-4b58aebf2612)
+![image](https://github.com/andy7937/andy7937/assets/126305769/129116ee-a89c-44de-8230-bc5dfae15f8a)
+
 
