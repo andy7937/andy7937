@@ -3,7 +3,7 @@
 ## Hello, Im Andy Lee
 A penultimate software engineering student studying at the University of Auckland
 
-I'm currently learning about Cyber/Network security <img src="https://github.com/andy7937/andy7937/assets/126305769/129116ee-a89c-44de-8230-bc5dfae15f8a" alt="image" width="20" height="20">
+I'm currently learning about Cyber/Network security <img src="https://github.com/andy7937/andy7937/assets/126305769/88613731-8b56-4d59-b082-0f9960baa8d3" alt="image" width="20" height="20">
 
 Check out my projects on my portfolio website - https://andyportfolio.tiiny.site/
 
